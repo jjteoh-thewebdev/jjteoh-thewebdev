@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**jjteoh-thewebdev/jjteoh-thewebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Software Craftsman that didnt make it to SILICON VALLEY
+- 🖥️ Backend > Frontend
+- ❤️ NodeJS, TypeScript, Clean Architecture
+- 📜 Top 3 favorite quotes:
+  - _First they  ignore you, then they laugh at you, then they fight you, then you win_ -- M. Ghandhi
+  - _Great works are performed not by strength but by perserverance_ -- Samuel Johnson
+  - _Leadership is not about being in charge, but taking care of those in your charge_ -- Simon Sinek   
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<a href="https://github.com/jjteoh-pingspace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjteoh-pingspace&show_icons=true&theme=tokyonight&count_private=true" alt="JJ's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjteoh-pingspace&theme=tokyonight&layout=compact" alt="JJ's github top languages" />
+</a>
