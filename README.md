@@ -1,4 +1,4 @@
-![Header](./[banner.png])
+![Header](./banner.png)
 
 ### Hello World 👋
 [![Created Badge](https://badges.pufler.dev/created/jjteoh-thewebdev/jjteoh-thewebdev)](https://www.linkedin.com/in/thewebdev-jjteoh/)
