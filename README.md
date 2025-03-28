@@ -11,7 +11,7 @@
 
 <br />
 
-<a href="https://github.com/jjteoh-pingspace">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjteoh-pingspace&show_icons=true&theme=tokyonight&count_private=true" alt="JJ's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjteoh-pingspace&theme=tokyonight&layout=compact" alt="JJ's github top languages" />
+<a href="https://github.com/jjteoh-thewebdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjteoh-thewebdev&show_icons=true&theme=tokyonight&count_private=true" alt="JJ's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjteoh-thewebdev&theme=tokyonight&layout=compact" alt="JJ's github top languages" />
 </a>
