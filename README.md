@@ -1,4 +1,10 @@
+![Header](./[banner.png])
+
 ### Hello World 👋
+[![Created Badge](https://badges.pufler.dev/created/jjteoh-thewebdev/jjteoh-thewebdev)](https://www.linkedin.com/in/thewebdev-jjteoh/)
+[![Repos Badge](https://badges.pufler.dev/repos/jjteoh-thewebdev)](https://www.linkedin.com/in/thewebdev-jjteoh/)
+![watching_count](https://komarev.com/ghpvc/?username=jjteoh-thewebdev&color=brightgreen)
+
 
 - 😄 Software Craftsman that didnt make it to SILICON VALLEY
 - 🖥️ Backend > Frontend
@@ -14,4 +20,5 @@
 <a href="https://github.com/jjteoh-thewebdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjteoh-thewebdev&show_icons=true&theme=tokyonight&count_private=true" alt="JJ's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjteoh-thewebdev&theme=tokyonight&layout=compact" alt="JJ's github top languages" />
+  
 </a>
