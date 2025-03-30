@@ -22,3 +22,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjteoh-thewebdev&theme=tokyonight&layout=compact" alt="JJ's github top languages" />
   
 </a>
+
+[Old Github Acc](https://github.com/jjteoh-pingspace)
