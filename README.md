@@ -11,7 +11,7 @@
 - ❤️ Main stack: NodeJS, TypeScript, Clean Architecture
 - 📜 Top 3 favorite quotes:
   - _First they  ignore you, then they laugh at you, then they fight you, then you win_ -- M. Ghandhi
-  - _Great works are performed not by strength but by perserverance_ -- Samuel Johnson
+  - _七転び八起き(ななころびやおき) - Fall seven times, came back up eight times_ -- Japanase Proverb
   - _Leadership is not about being in charge, but taking care of those in your charge_ -- Simon Sinek
 - My website >>> [Click Here](https://www.jjteoh.dev/)
 - My old Github account >>> [Click Here](https://github.com/jjteoh-pingspace)
