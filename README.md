@@ -7,7 +7,7 @@
 
 
 - 😄 Software Craftsman that didnt make it to SILICON VALLEY
-- AI-supercharged software engineer
+- 🚀 AI-supercharged software engineer
 - 🖥️ Backend specialized, full-stack capable
 - ❤️ Main stack: NodeJS, TypeScript, Clean Architecture
 - 📜 Top 3 favorite quotes:
