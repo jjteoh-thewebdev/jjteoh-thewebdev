@@ -7,14 +7,16 @@
 
 
 - 😄 Software Craftsman that didnt make it to SILICON VALLEY
+- AI-supercharged software engineer
 - 🖥️ Backend specialized, full-stack capable
 - ❤️ Main stack: NodeJS, TypeScript, Clean Architecture
 - 📜 Top 3 favorite quotes:
   - _First they  ignore you, then they laugh at you, then they fight you, then you win_ -- M. Ghandhi
-  - _七転び八起き(ななころびやおき) - Fall seven times, came back up eight times_ -- Japanase Proverb
   - _Leadership is not about being in charge, but taking care of those in your charge_ -- Simon Sinek
-- My website >>> [Click Here](https://www.jjteoh.dev/)
-- My old Github account >>> [Click Here](https://github.com/jjteoh-pingspace)
+  - _七転び八起き(ななころびやおき) - Fall seven times, came back up eight times_ -- Japanase Proverb
+- 🌏 My website >>> [Click Here](https://www.jjteoh.dev/)
+- 💡 Casually write about tech, book-review, life experience and career advise. >>> [Click Here](https://itsjjteoh.substack.com/)
+- ☠️ Old Github account >>> [Click Here](https://github.com/jjteoh-pingspace)
 
 
 <br />
