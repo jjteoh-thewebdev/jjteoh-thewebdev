@@ -6,7 +6,7 @@
 ![watching_count](https://komarev.com/ghpvc/?username=jjteoh-thewebdev&color=brightgreen)
 
 
-- 😄 Software Craftsman that didnt make it to SILICON VALLEY
+- 😄 Software Craftsman based in Malaysia
 - 🚀 AI-supercharged software engineer
 - 🖥️ Backend specialized, full-stack capable
 - ❤️ Main stack: NodeJS, TypeScript, Clean Architecture
